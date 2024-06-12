@@ -1,0 +1,119 @@
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.Form1.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.gecikenkitap.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapduzenle.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapekle.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitaplistele.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapsil.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapver.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencidüzenle.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrenciekle.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencilistele.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencis.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.Properties.Resources.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.exe.config
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.exe
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.pdb
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.exe
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.pdb
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.AnaMenü.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.secme.resources
+C:\Users\user\source\repos\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencigiris.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\kütüphane.accdb
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.exe.config
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.exe
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.pdb
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.AnaMenü.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.Form1.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.gecikenkitap.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapduzenle.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapekle.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitaplistele.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapsil.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapver.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencidüzenle.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrenciekle.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencigiris.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencilistele.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencis.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.Properties.Resources.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.secme.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.exe
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.pdb
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencipanelcs.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.adminp.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personele.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personeld.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personels.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personell.resources
+C:\Users\acer\source\repos\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.adming.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\kütüphane.accdb
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.exe.config
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.exe
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.pdb
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.adming.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.adminp.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.AnaMenü.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.Form1.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.gecikenkitap.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapduzenle.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapekle.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitaplistele.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapsil.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapver.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencidüzenle.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrenciekle.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencigiris.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencilistele.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencipanelcs.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencis.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personeld.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personele.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personell.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personels.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.Properties.Resources.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.secme.resources
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.exe
+C:\Users\acer\Desktop\Kütüphane Otomm (1)\Kütüphane Otomm (1)\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.pdb
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\kütüphane.accdb
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.exe.config
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.exe
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\bin\Debug\Kütüphane Otomm.pdb
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.AssemblyReference.cache
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.adming.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.adminp.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.AnaMenü.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.Form1.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.gecikenkitap.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapduzenle.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapekle.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitaplistele.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapsil.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.kitapver.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencidüzenle.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrenciekle.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencigiris.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencilistele.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencipanelcs.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.ogrencis.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personeld.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personele.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personell.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.personels.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.Properties.Resources.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane_Otomm.secme.resources
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.GenerateResource.cache
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.csproj.CoreCompileInputs.cache
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.exe
+C:\Users\aalpe\OneDrive\Masaüstü\Kütüphane Otomm\Kütüphane Otomm\obj\Debug\Kütüphane Otomm.pdb
